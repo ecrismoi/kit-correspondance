@@ -19,4 +19,4 @@ Tous les fichiers sont en licence libre (CC BY-SA), utilisables pour un usage pe
 
 Vous aimez écrire à la main ? Vous avez vos propres modèles ou exemples ? Les contributions sont les bienvenues !
 
-<img src="https://cdn.prod.website-files.com/67d2eebb178cadf65c6d0395/67d7eb65e7acd2f59758657d_logoecrismoi.svg" alt="Logo Écris-moi" width="200" />
+<a href="https://www.ecrismoi.fr"><img src="https://cdn.prod.website-files.com/67d2eebb178cadf65c6d0395/67d7eb65e7acd2f59758657d_logoecrismoi.svg" alt="Logo Écris-moi" width="200" /></a>
